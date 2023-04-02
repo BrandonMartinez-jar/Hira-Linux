@@ -1,6 +1,6 @@
 # Tabla de contenido
 
-- [Introducción](https://github.com/BrandonMartinez-jar/Hira-Linux/blob/Spanish/Introduccion.md)
+### [Introducción](https://github.com/BrandonMartinez-jar/Hira-Linux/blob/Spanish/Introduccion.md)
 
 ## Parte 1: Preliminar
 
